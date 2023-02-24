@@ -46,7 +46,6 @@ Fullstack [Stack Overflow](https://stackoverflow.com/) clone (QnA site) made wit
 - Loading spinners for relevant fetching processes
 - Formatted dates for adding/updating questions/answers/comments
 - Dark mode toggle w/ local storage save
-- Proper responsive UI for all screens
 
 ## Screenshots
 
